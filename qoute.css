@@ -29,16 +29,15 @@ body {
 }
 
 .quote-text {
-  i {
-    font-size: 1em;
-    margin-right: 0.4em;
-    transition: 4s;
-  }
-
   font-family: "Raleway";
   font-weight: 400;
   font-size: 1.75em;
 }
+.quote-text i {
+    font-size: 1em;
+    margin-right: 0.4em;
+    transition: 4s;
+  }
 
 #text {
   transition: 4s;

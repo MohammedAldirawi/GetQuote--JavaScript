@@ -1,3 +1,4 @@
+// Js
 let quotes = [
     "In order to succeed, your desire for success should be greater than your fear of failure.",
     "An unexamined life is not worth living.",
